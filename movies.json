@@ -1,0 +1,45 @@
+[
+    {
+        "title" : "Band of Brothers",
+        "length"    : 594,
+        "isKidFriendly" : false,
+        "protagonist" : {
+            "[actorName]" : "Damian Lewis",
+            "characterName" : "Richard D. Winters"
+        },
+        "antagonist" : {
+            "actorName" : "Adolf Hitler",
+            "characterName" : "Hitler"
+        }
+    },
+    {
+        "title" : "Bad Boys 2",
+        "length"    : 147,
+        "isKidFriendly" : false,
+        "protagonist" : {
+            "actorName" : "will Smith",
+            "actorName2" : "Martin Lawrence",
+            "characterName" : "Detective Mike Lowrey",
+            "charaktername2" : "Detective Marcus Burnett"
+        },
+        "antagonist" : {
+            "actorname" : "Reynaldo Gallegos",
+            "characterName" : "Tito Vargas"
+        }
+    },
+    {
+        "title" : "Tom & Jerry",
+        "legth" : 10,
+        "isKidFriendly" : true,
+        "protagonist" : {
+            "actorName" : "Jerry",
+            "characterName" : "Mouse"
+        },
+        "antagonist" : {
+            "actorName" : "Tom",
+            "characterName" : "Cat"
+        }
+    }
+
+
+]
